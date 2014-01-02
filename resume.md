@@ -168,48 +168,48 @@ During my tenure we increased the number of trained volunteers significantly, im
 
 ## Skills & Expertise (Keywords)
 
-Web Development
-JavaScript
-Software Development
-C#
-Web Applications
-jQuery
-CSS
-Business Analysis 
-AJAX
-MVC
-Perl
-Enterprise Software 
-Python
-Web Architecture
-JSON
-XML
-XHTML
-HTML
-OOP
-Software Design
-Agile Methodologies 
-Application Development 
-Subversion
-ASP.NET 
-MVC
-.NET
-Integration
-Linux
-Object Oriented Design
-Mobile Applications
-Unix
-Team Leadership
-Architectures
-Apache
-Architecture
-Web Services
-SOA
-Cross-functional Team Leadership 
-Git
-Node.js
-Grunt.js
-Backbone.js
-Tornado
+Web Development,
+JavaScript,
+Software Development,
+C#,
+Web Applications,
+jQuery,
+CSS,
+Business Analysis,
+AJAX,
+MVC,
+Perl,
+Enterprise Software,
+Python,
+Web Architecture,
+JSON,
+XML,
+XHTML,
+HTML,
+OOP,
+Software Design,
+Agile Methodologies,
+Application Development,
+Subversion,
+ASP.NET,
+MVC,
+.NET,
+Integration,
+Linux,
+Object Oriented Design,
+Mobile Applications,
+Unix,
+Team Leadership,
+Architectures,
+Apache,
+Architecture,
+Web Services,
+SOA,
+Cross-functional Team Leadership,
+Git,
+Node.js,
+Grunt.js,
+Backbone.js,
+Tornado,
 Nginx
 
