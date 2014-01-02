@@ -4,15 +4,10 @@ Polyglot Web Hacker
 
 ## Objective
 
-Web Application Developer, Development Manager, leading and growing
-cross-functional teams of up to 35 developers and engineers globally. Leading
-teams in developing high-volume, high-availability web applications for the
-financial sector.  Focused on managing larger teams of developers for
-throughput, while rapidly developing the breadth and depth of skills across the
-team.
-
-Specialties: Web Programming, Web Architecture, JavaScript,
-    Python, Node.js, Development Management, C#, .NET MVC,
+After many years of programming in a big business/B2B setting I'm excited to
+move into the small business world.  I'm looking to join a small team of
+talented developers to build cutting edge web applications, mobile apps and
+anything in between.
 
 ## Experience
 

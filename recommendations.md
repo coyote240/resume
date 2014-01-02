@@ -1,6 +1,6 @@
 # Adam A.G. Shamblin 
-## <adam.shamblin@gmail.com>
-## Polyglot Web Hacker
+adam.shamblin@gmail.com
+Polyglot Web Hacker
 
 ##Recommendations
 

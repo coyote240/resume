@@ -50,6 +50,11 @@ p, blockquote, ul, ol, dl, li, table, pre {
 	margin: 15px 0;
 }
 
+blockquote {
+    border: none;
+    font-style: italic;
+}
+
 a, a:visited {
 	color: #4183C4;
 	background-color: inherit;
