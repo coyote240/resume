@@ -1,6 +1,6 @@
 # Adam A.G. Shamblin 
-## <adam.shamblin@gmail.com>
-## Polyglot Web Hacker
+adam.shamblin@gmail.com
+Polyglot Web Hacker
 
 ## Objective
 
@@ -11,13 +11,13 @@ financial sector.  Focused on managing larger teams of developers for
 throughput, while rapidly developing the breadth and depth of skills across the
 team.
 
-Specialties: Web Programming, Web Architecture, JavaScript, C#, .NET MVC,
-    Python, Node.js, Development Management
+Specialties: Web Programming, Web Architecture, JavaScript,
+    Python, Node.js, Development Management, C#, .NET MVC,
 
 ## Experience
 
 ### Senior Web Developer/Director of Application Development at Datu Health
-May 2013 - December 2013
+*May 2013 - December 2013*
 
 * Assembled a fully asynchronous web stack using NGINX, Python and Tornado.
 * Wrote a basic collection of custom Python libraries to simplify authentication against clients' backend applications and use of RESTful services.
@@ -25,11 +25,11 @@ May 2013 - December 2013
 * Introduced Grunt.js for client-side builds, including writing a number of custom tasks for managing deployment packages and Cordova mobile builds.
 * Provided a basic framework within which to very rapidly grow a technical organization. From June through the end of the year took the team from three developers to fifteen, with an easy path forward for further growth.
 
-I was invited to join BickHealth to design and implement their web stack which,
-at the time of my employment, had not yet been considered. My goal was to put
-together a fully asynchronous web server using open source technologies that
-would allow for rapid development without locking us into a rigid, opinionated
-framework.
+I was invited to join Datu Health (then BickHealth) to design and implement
+their web stack which, at the time of my employment, had not yet been
+considered. My goal was to put together a fully asynchronous web server using
+open source technologies that would allow for rapid development without locking
+us into a rigid, opinionated framework.
 
 I ultimately chose Facebook's Tornado web server and Python, with NGINX as a
 front-end load balancer. Python is an easy choice as a server-side web language.
@@ -49,47 +49,62 @@ within D#tu's growing cloud environment.
 1 recommendation available upon request
 
 ### Director at Markit
-July 2010 - May 2013
+*July 2010 - May 2013*
 
-Developed and integrated web applications for Markit products focused largely on the institutional trading relationship, including commission management. Grew the Products development team by greater than 300% allowing for an overall increase in throughput to 25+ concurrent projects.
+Developed and integrated web applications for Markit products focused largely on
+the institutional trading relationship, including commission management. Grew
+the Products development team by greater than 300% allowing for an overall
+increase in throughput to 25+ concurrent projects.
 
 5 recommendations available upon request
 
 ### Development Manager at Wall Street On Demand
-August 2009 - May 2013 (3 years 10 months)
+*August 2009 - May 2013*
 
-Lead teams developing high-profile, high-availability web applications for the financial sector. Responsible for hiring and cultivation of mid to senior level developers and development leads. Cofounded the MOD Developer University program.
-Continued to contribute as a development resource, building sites in C# .NET/MVC framework as well as providing training and guidance to team members.
+Lead teams developing high-profile, high-availability web applications for the
+financial sector. Responsible for hiring and cultivation of mid to senior level
+developers and development leads. Cofounded the MOD Developer University
+program.
+
+Continued to contribute as a development resource, building sites in C# .NET/MVC
+framework as well as providing training and guidance to team members.
 
 **Technology stack:** C#, .NET/MVC, jQuery, JavaScript, Bootstrap
 
 2 recommendations available upon request
 
 ### Senior Web Developer at Wall Street On Demand
-December 2007 - August 2009
+*December 2007 - August 2009*
 
-Grew a team from two to eight developers, with coverage of 6 or more client relationships at any given time. Responsible for hiring and development of new employees. As a team lead, I was responsible for the annual reviews of my teammates, as well as compensation.
-Contributed to a large number of custom JavaScript libraries for both server- and client-side development.
+Grew a team from two to eight developers, with coverage of 6 or more client
+relationships at any given time. Responsible for hiring and development of new
+employees. As a team lead, I was responsible for the annual reviews of my
+teammates, as well as compensation.  
+
+Contributed to a large number of custom
+JavaScript libraries for both server- and client-side development.
 
 **Technology stack*: C#, .NET/MVC, jQuery, JavaScript, Bootstrap, ASP Classic, Custom JS Libraries (pre-jQuery era!)
 
 ### Web Developer at Wall Street On Demand
-June 2006 - December 2007
+*June 2006 - December 2007*
 
 Worked independently or on small teams to develop high-end, custom websites for financial and media companies. Responsible for both long-term maintenance and new development.
 
 ### Support Tools Developer at Arrow Electronics, Inc.
-January 2002 - June 2006
+*January 2002 - June 2006*
 
 Developed web applications to better surface CRM and call center data to IT management. Developed enterprise-wide performance scorecard for the IT organization.
 
 1 recommendation available upon request
 
 ### Craftsman/ Owner at Burnham Wood Log and Timber Smiths
-January 1998 - January 2001
+*January 1998 - January 2001*
 
 Hand-crafted log and timber components for new homes or remodels. Complete hand-hewn or Swedish cope
 log houses.
+
+<!--BREAK-->
 
 ## Projects
 
@@ -116,10 +131,9 @@ Commission Manager is a prime brokerage trade reconciliation tool enabling broke
 
 The project involved putting together low-latency trade data feeds using optimised SQL Server and .NET (3.5 and 4.0) middle tier components.
 
-[Commission Manager at
-Markit.com](http://www.markit.com/Product/Commission-Manager)
+[Commission Manager at Markit.com](http://www.markit.com/Product/Commission-Manager)
 
-###￼￼ Cofounder WSOD/MOD Developer University
+### Cofounder WSOD/MOD Developer University
 *September 2009 to December 2012*
 
 **Members:** Adam Shamblin, Christopher Bailey, Laura Myers-Wagner, Jenni Tymkovich
@@ -143,10 +157,12 @@ considered successful are offered full-time positions as MOD. In the years since
 the DevU project's inception, we have seen an overall 60% hire rate, with a
 significant number going on to join our Senior Development team.
 
+<!--BREAK-->
+
 ##Volunteer Experience
 
 ###Cub Master at Boy Scouts of America
-September 1998 - December 2000
+*September 1998 - December 2000*
 
 I began working with the BSA as a den leader to help me to spend more time with, and better get to know my
 step-son. I found working with the boys, and the parents, to be very rewarding and a ton of fun!
