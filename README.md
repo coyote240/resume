@@ -84,7 +84,7 @@ teammates, as well as compensation.
 Contributed to a large number of custom
 JavaScript libraries for both server- and client-side development.
 
-**Technology stack*: C#, .NET/MVC, jQuery, JavaScript, Bootstrap, ASP Classic, Custom JS Libraries (pre-jQuery era!)
+**Technology stack**: C#, .NET/MVC, jQuery, JavaScript, Bootstrap, ASP Classic, Custom JS Libraries (pre-jQuery era!)
 
 ### Web Developer at Wall Street On Demand
 *June 2006 - December 2007*
