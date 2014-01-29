@@ -1,0 +1,17 @@
+{
+  "name": "ProfessionalResume",
+  "version": "0.1.0",
+  "description": "This is the professional resume of Adam A.G. Shamblin",
+  "author": {
+    "name": "Adam A.G. Shamblin",
+    "email": "adam.shamblin@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coyote240/resume"
+  },
+  "private": true,
+  "devDependencies": {
+    "grunt-markdown-pdf": "~2.1.1"
+  }
+}
