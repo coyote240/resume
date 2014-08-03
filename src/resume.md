@@ -16,6 +16,15 @@ anything in between.
 
 ## Experience
 
+### Mobile Developer at Imulus
+*March 2014 - July 2014*
+
+* Developed complex client applications for both iOS and Android.
+* Contributed to open-source libraries such as retina.js.
+* Aided in the setup of continuous integration systems like TeamCity.
+* Participated in client discussions.
+* Acted occassionally as advocate and volunteer mentor at a local accelerator.
+
 ### Senior Web Developer/Director of Application Development at Datu Health
 *May 2013 - December 2013*
 
