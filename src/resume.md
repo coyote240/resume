@@ -3,6 +3,8 @@ Polyglot Web Hacker
 
 adam.shamblin@gmail.com
 
+720-320-6448
+
 255 W. 4th Ave. Dr
 Broomfield, CO
 80020
@@ -25,14 +27,20 @@ anything in between.
 * Participated in client discussions.
 * Acted occassionally as advocate and volunteer mentor at a local accelerator.
 
+**Technology stack:** iOS, Objective C, Android, Java, Linux, Heroku
+
 ### Senior Web Developer/Director of Application Development at Datu Health
 *May 2013 - December 2013*
 
 * Assembled a fully asynchronous web stack using NGINX, Python and Tornado.
-* Wrote a basic collection of custom Python libraries to simplify authentication against clients' backend applications and use of RESTful services.
+* Wrote a basic collection of custom Python libraries to simplify authentication 
+against clients' backend applications and use of RESTful services.
 * Trained web developers in Python, Tornado and asynchronous development.
-* Introduced Grunt.js for client-side builds, including writing a number of custom tasks for managing deployment packages and Cordova mobile builds.
-* Provided a basic framework within which to very rapidly grow a technical organization. From June through the end of the year took the team from three developers to fifteen, with an easy path forward for further growth.
+* Introduced Grunt.js for client-side builds, including writing a number of 
+custom tasks for managing deployment packages and Cordova mobile builds.
+* Provided a basic framework within which to very rapidly grow a technical 
+organization. From June through the end of the year took the team from three 
+developers to fifteen, with an easy path forward for further growth.
 
 I was invited to join Datu Health (then BickHealth) to design and implement
 their web stack which, at the time of my employment, had not yet been
@@ -55,7 +63,6 @@ within D#tu's growing cloud environment.
 
 **Technology stack:** Python, Tornado, Backbone.js, Grunt.js, jQuery, Redis, MongoDB, Less, Cordova, REST, Node.js
 
-1 recommendation available upon request
 
 ### Director at Markit
 *July 2010 - May 2013*
@@ -65,7 +72,6 @@ the institutional trading relationship, including commission management. Grew
 the Products development team by greater than 300% allowing for an overall
 increase in throughput to 25+ concurrent projects.
 
-5 recommendations available upon request
 
 ### Development Manager at Wall Street On Demand
 *August 2009 - May 2013*
@@ -80,7 +86,6 @@ framework as well as providing training and guidance to team members.
 
 **Technology stack:** C#, .NET/MVC, jQuery, JavaScript, Bootstrap
 
-2 recommendations available upon request
 
 ### Senior Web Developer at Wall Street On Demand
 *December 2007 - August 2009*
@@ -105,7 +110,6 @@ Worked independently or on small teams to develop high-end, custom websites for 
 
 Developed web applications to better surface CRM and call center data to IT management. Developed enterprise-wide performance scorecard for the IT organization.
 
-1 recommendation available upon request
 
 ### Craftsman/ Owner at Burnham Wood Log and Timber Smiths
 *January 1998 - January 2001*
@@ -225,5 +229,8 @@ Node.js,
 Grunt.js,
 Backbone.js,
 Tornado,
-Nginx
+Nginx,
+iOS,
+Objective C,
+Android
 
