@@ -12,10 +12,22 @@ module.exports = function (grunt) {
                 src: 'src/*.md',
                 dest: 'distribute'
             }
+        },
+
+        pandoc: {
+            configs: {
+                publish: 'docx'
+            },
+            files: {
+                from: [
+                    'src/resume.md'
+                ]
+            }
         }
     });
 
     grunt.loadNpmTasks('grunt-markdown-pdf');
+    grunt.loadNpmTasks('grunt-pandoc');
 
     grunt.registerTask('default', ['markdownpdf']);
 };

@@ -18,6 +18,22 @@ anything in between.
 
 ## Experience
 
+### Senior Web Engineer at MapQuest
+*September 2014 - Present*
+
+* Contributed to new development of the latest MapQuest flagship web
+application.
+* Development of experience-driven user interfaces on both front and back end.
+* Participated in a successful agile/scrum process with high velocity and higher
+accountability.
+* Actively engaged with senior team in the architecture and implementation of a
+complex, client-heavy application.
+* Contributed to unit test development with an organic coverage of greater than
+85%.
+
+**Technology stack:** AngularJS, ui-router, LeafletJS, Scala, Play! Framework,
+    Amazon AWS, Jasmine, Karma, Protractor, Node.js
+
 ### Mobile Developer at Imulus
 *March 2014 - July 2014*
 
@@ -232,5 +248,10 @@ Tornado,
 Nginx,
 iOS,
 Objective C,
-Android
+Android,
+AngularJS,
+LeafletJS,
+Karma,
+Jasmine,
+Protractor
 
