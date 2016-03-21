@@ -3,23 +3,51 @@ Polyglot Web Hacker
 
 adam.shamblin@gmail.com
 
+https://github.com/coyote240
+
 720-320-6448
 
 255 W. 4th Ave. Dr
 Broomfield, CO
 80020
 
-## Objective
+## Overview 
 
-After many years of programming in a big business/B2B setting I'm excited to
-move into the small business world.  I'm looking to join a small team of
-talented developers to build cutting edge web applications, mobile apps and
-anything in between.
+As a polyglot web application developer, I have had opportunity to work in a
+large number of languages on many platforms.  I love the dynamic languages and
+Unix-like environments where I've grown and cut my teeth.  Even after all these
+years in the industry, I'm still excited by the possibilities of the web, where
+I feel there is plenty of space yet to be explored.
+
+As a Director and Development Manager I lead and grew large cross-functional
+teams of engineers and developers in the Financial and Healthcare sectors.
+I found success leading teams to greater efficiency while rapidly growing the
+depth and breadth of skills across the team.  I reduced turnover on my teams
+by focusing on team identity and encouraging every team member to participate
+and to own our shared narrative.
+
+Whether as a manager or as a senior contributor, I make teams better.
 
 ## Experience
 
+### Senior Cloud Front End Developer at Hewlett Packard Enterprise
+*August 2015 - Present*
+
+* Contributed to the development of the HP Helion Eucalyptus Cloud Management
+Console.
+* Advocated for stronger web design patterns by demonstrating effective use of
+AngularJS directives, services, and by introducing more solid REST principles.
+* Provided feedback to documentation team to improve user experience.
+* Administered a small, two-node HP Eucalyptus cloud in my home office for
+testing and deployment of web projects.
+* Participated in a maturing agile/scrum process among an entirely distributed
+team.
+
+**Technology stack:** AngularJS, Python, Pyramid, boto, d3.js, Foundation,
+    HP Helion Eucalyptus, Amazon AWS, CentOS, gunicorn, SASS, bash, IRC
+
 ### Senior Web Engineer at MapQuest
-*September 2014 - Present*
+*September 2014 - August 2015*
 
 * Contributed to new development of the latest MapQuest flagship web
 application.
@@ -77,7 +105,8 @@ of communication between servers, increased security and configurability between
 client engagements, and improved design of stateless applications to operate
 within D#tu's growing cloud environment.
 
-**Technology stack:** Python, Tornado, Backbone.js, Grunt.js, jQuery, Redis, MongoDB, Less, Cordova, REST, Node.js
+**Technology stack:** Python, Tornado, Backbone.js, Grunt.js, jQuery, Redis,
+    MongoDB, Less, Cordova, REST, Node.js
 
 
 ### Director at Markit
@@ -245,13 +274,17 @@ Node.js,
 Grunt.js,
 Backbone.js,
 Tornado,
+Pyramid,
 Nginx,
 iOS,
 Objective C,
 Android,
 AngularJS,
 LeafletJS,
+d3.js,
 Karma,
 Jasmine,
-Protractor
-
+Protractor,
+SASS,
+LESS,
+Cloud
