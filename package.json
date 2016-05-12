@@ -12,7 +12,7 @@
   },
   "private": true,
   "devDependencies": {
-    "grunt-markdown-pdf": "~2.1.1",
-    "grunt-pandoc": "~0.2.3"
+    "grunt-markdown-pdf": ">=2.1.1",
+    "grunt-pandoc": ">=0.2.3"
   }
 }

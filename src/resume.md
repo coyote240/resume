@@ -3,7 +3,7 @@ Polyglot Web Hacker
 
 adam.shamblin@gmail.com
 
-https://github.com/coyote240
+[\@ Github](https://github.com/coyote240)
 
 720-320-6448
 
@@ -33,15 +33,11 @@ Whether as a manager or as a senior contributor, I make teams better.
 ### Senior Cloud Front End Developer at Hewlett Packard Enterprise
 *August 2015 - Present*
 
-* Contributed to the development of the HP Helion Eucalyptus Cloud Management
-Console.
-* Advocated for stronger web design patterns by demonstrating effective use of
-AngularJS directives, services, and by introducing more solid REST principles.
+* Contributed to the development of the HP Helion Eucalyptus Cloud Management Console.
+* Advocated for stronger web design patterns by demonstrating effective use of AngularJS directives, services, and by introducing more solid REST principles.
 * Provided feedback to documentation team to improve user experience.
-* Administered a small, two-node HP Eucalyptus cloud in my home office for
-testing and deployment of web projects.
-* Participated in a maturing agile/scrum process among an entirely distributed
-team.
+* Administered a small, two-node HP Eucalyptus cloud in my home office for testing and deployment of web projects.
+* Participated in a maturing agile/scrum process among an entirely distributed team.
 
 **Technology stack:** AngularJS, Python, Pyramid, boto, d3.js, Foundation,
     HP Helion Eucalyptus, Amazon AWS, CentOS, gunicorn, SASS, bash, IRC
@@ -143,18 +139,20 @@ teammates, as well as compensation.
 Contributed to a large number of custom
 JavaScript libraries for both server- and client-side development.
 
-**Technology stack*: C#, .NET/MVC, jQuery, JavaScript, Bootstrap, ASP Classic, Custom JS Libraries (pre-jQuery era!)
+**Technology stack**: C\#, .NET/MVC, jQuery, JavaScript, Bootstrap, ASP Classic,
+Custom JS Libraries (pre-jQuery era!)
 
 ### Web Developer at Wall Street On Demand
 *June 2006 - December 2007*
 
-Worked independently or on small teams to develop high-end, custom websites for financial and media companies. Responsible for both long-term maintenance and new development.
+Worked independently or on small teams to develop high-end, custom websites for
+financial and media companies. Responsible for both long-term maintenance and new development.
 
 ### Support Tools Developer at Arrow Electronics, Inc.
 *January 2002 - June 2006*
 
-Developed web applications to better surface CRM and call center data to IT management. Developed enterprise-wide performance scorecard for the IT organization.
-
+Developed web applications to better surface CRM and call center data to IT management.
+Developed enterprise-wide performance scorecard for the IT organization.
 
 ### Craftsman/ Owner at Burnham Wood Log and Timber Smiths
 *January 1998 - January 2001*
@@ -162,12 +160,10 @@ Developed web applications to better surface CRM and call center data to IT mana
 Hand-crafted log and timber components for new homes or remodels. Complete hand-hewn or Swedish cope
 log houses.
 
-<!--BREAK-->
-
 ## Projects
 
 ### bivouac MVC Framework
-*January 2011 to Present*
+*January 2011 - January 2014*
 
 **Members:** Adam Shamblin
 
@@ -181,22 +177,25 @@ Cheetah.
 [Find bivouac on GitHub](https://github.com/coyote240/bivouac)
 
 ### Markit Commission Manager
-*January 2011 to December 2012*
+*January 2011 - December 2012*
 
 **Members:** Adam Shamblin, Steven De Salas, Michael Kelly, Adam Gordon, Sofia Rossato
 
-Commission Manager is a prime brokerage trade reconciliation tool enabling brokers and funds in the worlds largest financial institutions to settle their commission differences.
+Commission Manager is a prime brokerage trade reconciliation tool enabling
+brokers and funds in the worlds largest financial institutions to settle their
+commission differences.
 
-The project involved putting together low-latency trade data feeds using optimised SQL Server and .NET (3.5 and 4.0) middle tier components.
+The project involved putting together low-latency trade data feeds using
+optimised SQL Server and .NET (3.5 and 4.0) middle tier components.
 
 [Commission Manager at Markit.com](http://www.markit.com/Product/Commission-Manager)
 
 ### Cofounder WSOD/MOD Developer University
-*September 2009 to December 2012*
+*September 2009 - December 2012*
 
 **Members:** Adam Shamblin, Christopher Bailey, Laura Myers-Wagner, Jenni Tymkovich
 
-The Web Developer University (DevU) program was created to help streamline the
+The Web Developer University \(DevU\) program was created to help streamline the
 process of growing our development team to meet ever increasing demand.
 Conceived by Chris Bailey and myself, and with significant support and guidance
 from Laura Wagner and Jenny Tymkovich, our team rapidly developed a curriculum
@@ -215,19 +214,21 @@ considered successful are offered full-time positions as MOD. In the years since
 the DevU project's inception, we have seen an overall 60% hire rate, with a
 significant number going on to join our Senior Development team.
 
-<!--BREAK-->
+## Volunteer Experience
 
-##Volunteer Experience
-
-###Cub Master at Boy Scouts of America
+### Cub Master at Boy Scouts of America
 *September 1998 - December 2000*
 
-I began working with the BSA as a den leader to help me to spend more time with, and better get to know my
-step-son. I found working with the boys, and the parents, to be very rewarding and a ton of fun!
+I began working with the BSA as a den leader to help me to spend more time with,
+and better get to know my step-son. I found working with the boys, and the parents,
+to be very rewarding and a ton of fun!  After several months of service I was invited 
+to replace the current Cub Master who was moving for work. During that time
+I worked closely with the local BSA councils to help bring the local chapter
+back in line with current policies, to get our finances in order, and to create
+room for future growth.
 
-After several months of service I was invited to replace the current Cub Master who was moving for work. During that time I worked closely with the local BSA councils to help bring the local chapter back in line with current policies, to get our finances in order, and to create room for future growth.
-
-During my tenure we increased the number of trained volunteers significantly, improving the safety and effectiveness of the Pack overall.
+During my tenure we increased the number of trained volunteers significantly,
+improving the safety and effectiveness of the Pack overall.
 
 ## Skills & Expertise (Keywords)
 
