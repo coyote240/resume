@@ -4,6 +4,14 @@ module.exports = function (grunt) {
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
 
+        watch: {
+            options: {
+                span: false
+            },
+            files: ['**/*.md'],
+            tasks: ['default']
+        },
+
         markdownpdf: {
             options: {
                 cssPath: '../../../css/resume.css'
@@ -26,6 +34,7 @@ module.exports = function (grunt) {
         }
     });
 
+    grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-markdown-pdf');
     grunt.loadNpmTasks('grunt-pandoc');
 

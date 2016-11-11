@@ -12,6 +12,8 @@
   },
   "private": true,
   "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
     "grunt-markdown-pdf": ">=2.1.1",
     "grunt-pandoc": ">=0.2.3"
   }

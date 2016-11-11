@@ -58,18 +58,8 @@ complex, client-heavy application.
 **Technology stack:** AngularJS, ui-router, LeafletJS, Scala, Play! Framework,
     Amazon AWS, Jasmine, Karma, Protractor, Node.js
 
-### Mobile Developer at Imulus
-*March 2014 - July 2014*
 
-* Developed complex client applications for both iOS and Android.
-* Contributed to open-source libraries such as retina.js.
-* Aided in the setup of continuous integration systems like TeamCity.
-* Participated in client discussions.
-* Acted occassionally as advocate and volunteer mentor at a local accelerator.
-
-**Technology stack:** iOS, Objective C, Android, Java, Linux, Heroku
-
-### Senior Web Developer/Director of Application Development at Datu Health
+### Director of Application Development at Datu Health
 *May 2013 - December 2013*
 
 * Assembled a fully asynchronous web stack using NGINX, Python and Tornado.
@@ -105,17 +95,13 @@ within D#tu's growing cloud environment.
     MongoDB, Less, Cordova, REST, Node.js
 
 
-### Director at Markit
-*July 2010 - May 2013*
+### Director, Development Manager at Markit On Demand
+*August 2009 - May 2013*
 
 Developed and integrated web applications for Markit products focused largely on
 the institutional trading relationship, including commission management. Grew
 the Products development team by greater than 300% allowing for an overall
 increase in throughput to 25+ concurrent projects.
-
-
-### Development Manager at Wall Street On Demand
-*August 2009 - May 2013*
 
 Lead teams developing high-profile, high-availability web applications for the
 financial sector. Responsible for hiring and cultivation of mid to senior level
@@ -125,28 +111,27 @@ program.
 Continued to contribute as a development resource, building sites in C# .NET/MVC
 framework as well as providing training and guidance to team members.
 
-**Technology stack:** C#, .NET/MVC, jQuery, JavaScript, Bootstrap
+**Technology stack:** C#, .NET/MVC, jQuery, JavaScript, Bootstrap, FinTech,
+    internal libraries
 
 
-### Senior Web Developer at Wall Street On Demand
-*December 2007 - August 2009*
+### Senior Web Developer, Developer at Wall Street On Demand
+*June 2006 - August 2009*
 
 Grew a team from two to eight developers, with coverage of 6 or more client
 relationships at any given time. Responsible for hiring and development of new
 employees. As a team lead, I was responsible for the annual reviews of my
 teammates, as well as compensation.  
 
-Contributed to a large number of custom
-JavaScript libraries for both server- and client-side development.
+As an individual contributor, I worked independently or on small teams to
+develop high-end, custom websites for prominent financial and media companies.
+Responsible for both long-term maintenance and new development.
+
+Contributed to a large number of custom JavaScript libraries for both server
+and client-side development.
 
 **Technology stack**: C\#, .NET/MVC, jQuery, JavaScript, Bootstrap, ASP Classic,
 Custom JS Libraries (pre-jQuery era!)
-
-### Web Developer at Wall Street On Demand
-*June 2006 - December 2007*
-
-Worked independently or on small teams to develop high-end, custom websites for
-financial and media companies. Responsible for both long-term maintenance and new development.
 
 ### Support Tools Developer at Arrow Electronics, Inc.
 *January 2002 - June 2006*
@@ -216,6 +201,17 @@ significant number going on to join our Senior Development team.
 
 ## Volunteer Experience
 
+### Technology Advisory Committee, Broomfield High School
+*2015-16, 2016-17 School Years*
+
+Meet periodically with other Committee members and school representatives to
+review and comment upon technology related programs and budget initiatives.
+
+Volunteered as a judge for a Future Business Leaders of America
+\(FBLA\) regional conference, including pre-screening of submissions to 
+Desktop Application Programming, Simulation Programming and Mobile Application
+Development categories.
+
 ### Cub Master at Boy Scouts of America
 *September 1998 - December 2000*
 
@@ -229,6 +225,7 @@ room for future growth.
 
 During my tenure we increased the number of trained volunteers significantly,
 improving the safety and effectiveness of the Pack overall.
+
 
 ## Skills & Expertise (Keywords)
 
@@ -288,4 +285,5 @@ Jasmine,
 Protractor,
 SASS,
 LESS,
-Cloud
+Cloud,
+AWS
