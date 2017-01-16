@@ -30,8 +30,16 @@ Whether as a manager or as a senior contributor, I make teams better.
 
 ## Experience
 
+### Lead Full-Stack Developer at ThinkTank
+*January 2017 - Present*
+
+Leads a cross-functional team of developers, testers and product managers to
+plan, develop and deploy the ThinkTank flagship application.
+
+**Technology stack:** Angular2, Node.js, Docker, Amazon AWS, Material
+
 ### Senior Cloud Front End Developer at Hewlett Packard Enterprise
-*August 2015 - Present*
+*August 2015 - December 2016*
 
 * Contributed to the development of the HP Helion Eucalyptus Cloud Management Console.
 * Advocated for stronger web design patterns by demonstrating effective use of AngularJS directives, services, and by introducing more solid REST principles.
