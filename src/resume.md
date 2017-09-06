@@ -33,29 +33,18 @@ Whether as a manager or as a senior contributor, I make teams better.
 ### Lead Full-Stack Developer/Acting Director of Security at ThinkTank
 *January 2017 - Present*
 
-Lead and mentored a cross-functional team of developers, testers and product
-managers to plan, develop and deploy the ThinkTank flagship application. Through
-white-board review, pull request review and face-to-face interaction, helped to
-establish an elevated standard for code and architecture quality across the
-organization.
+* Lead and mentored a cross-functional team of developers, testers and product managers to plan, develop and deploy the ThinkTank flagship application.
+* Through white-board review, pull requests and face-to-face interaction, helped to establish an elevated standard for code and architecture quality.
+* Introduced git-flow as a process for managing commits, resulting in a drastic reduction in lost developer time due to broken builds.
 
-Introduced git-flow as a process for managing commits, resulting in
-a drastic reduction in lost developer time due to broken builds.
+* Worked with CFO and Product Management to establish, review and ratify the total of ThinkTank's security policies.
+* Engaged with third-party penetration testing company to perform tests on multiple applications.
+* Managed static and dynamic analysis of application code using Veracode.
+* Triaged, assigned and performed remediation of security flaws as they were found.
 
-Worked with CFO and Product Management to establish, review and ratify the total
-of ThinkTank's security policies. Engaged with third-party penetration testing
-company to perform tests on multiple applications. Managed static and dynamic
-analysis of application code using Veracode. Triaged, assigned and performed
-remediation of security flaws as they were found.
-
-Reviewed the totality of security software used by ThinkTank, negotiated and
-consolidated vendor contracts, resulting in over 50k in annual software and
-contractor savings.
-
-Assisted the CFO in preparing ThinkTank for SOC2 Readiness Assessment.
-
-Engaged with ThinkTank clients on security matters, including addressing
-contract concerns.
+* Negotiated and consolidated security software contracts, resulting in ~25k annual software and contractor savings.
+* Assisted the CFO in preparing ThinkTank for SOC2 Readiness Assessment.
+* Engaged with ThinkTank clients on security matters, including addressing contract concerns.
 
 **Technology stack:** Angular2/4, Node.js, Docker, Amazon AWS (ECS, S3,
         Inspector), Typescript, Veracode, AlertLogic, Bash scripting, Python
