@@ -7,7 +7,7 @@ adam.shamblin@tutanota.com<br/>
 
 ## Overview 
 
-As a polyglot web application developer, I have had opportunity to work in a
+As a polyglot web application developer, I have had the opportunity to work in a
 large number of languages on many platforms.  I love the dynamic languages and
 Unix-like environments where I've grown and cut my teeth.  Even after all these
 years in the industry, I'm still excited by the possibilities of the web, where
