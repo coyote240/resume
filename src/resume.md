@@ -49,7 +49,7 @@ analysis of application code using Veracode. Triaged, assigned and performed
 remediation of security flaws as they were found.
 
 Reviewed the totality of security software used by ThinkTank, negotiated and
-consolidated vendor contracts, resulting in over 50k in annual software and
+consolidated vendor contracts, resulting in ~25k in annual software and
 contractor savings.
 
 Assisted the CFO in preparing ThinkTank for SOC2 Readiness Assessment.
