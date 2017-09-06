@@ -1,20 +1,20 @@
 {
-  "name": "ProfessionalResume",
-  "version": "0.1.0",
-  "description": "This is the professional resume of Adam A.G. Shamblin",
-  "author": {
-    "name": "Adam A.G. Shamblin",
-    "email": "adam.shamblin@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/coyote240/resume"
-  },
-  "private": true,
-  "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-markdown-pdf": ">=2.1.1",
-    "grunt-pandoc": ">=0.2.3"
-  }
+    "name": "ProfessionalResume",
+    "version": "0.2.0",
+    "description": "This is the professional resume of Adam A.G. Shamblin",
+    "author": {
+        "name": "Adam A.G. Shamblin",
+        "email": "adam.shamblin@tutanota.com"
+    },
+    "scripts": {
+        "start": "node build.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/coyote240/resume"
+    },
+    "private": true,
+    "dependencies": {
+        "markdown-pdf": "^8.0.0"
+    }
 }

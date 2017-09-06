@@ -1,5 +1,6 @@
 body {
 	font-family: "Avenir Next", Helvetica, Arial, sans-serif;
+    font-size: 12px;
 	padding:1em;
 	margin:auto;
 	max-width:42em;
@@ -12,25 +13,26 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	color: #000000;
-	font-size: 28pt;
+	font-size: 24pt;
+    margin-bottom: .5rem;
 }
 
 h2 {
 	border-bottom: 1px solid #CCCCCC;
 	color: #000000;
-	font-size: 24px;
+	font-size: 22px;
 }
 
 h3 {
-	font-size: 18px;
-}
-
-h4 {
 	font-size: 16px;
 }
 
-h5 {
+h4 {
 	font-size: 14px;
+}
+
+h5 {
+	font-size: 12px;
 }
 
 h6 {
@@ -46,8 +48,12 @@ hr {
 	background-color: #CCCCCC;
 }
 
-p, blockquote, ul, ol, dl, li, table, pre {
+p, blockquote, ul, ol, dl, table, pre {
 	margin: 15px 0;
+}
+
+li {
+    margin: 5px 0;
 }
 
 blockquote {

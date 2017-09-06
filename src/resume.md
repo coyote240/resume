@@ -1,15 +1,9 @@
 # Adam A.G. Shamblin 
-Polyglot Web Hacker
 
-adam.shamblin@gmail.com
-
-[\@ Github](https://github.com/coyote240)
-
+Polyglot Web Hacker<br/>
+adam.shamblin@tutanota.com<br/>
+[\@ Github](https://github.com/coyote240)<br/>
 720-320-6448
-
-255 W. 4th Ave. Dr
-Broomfield, CO
-80020
 
 ## Overview 
 
