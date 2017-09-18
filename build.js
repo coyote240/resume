@@ -1,15 +1,20 @@
 #!/usr/bin/env node
 
-let markdownpdf = require('markdown-pdf'),
+const markdownpdf = require('markdown-pdf'),
     fs = require('fs');
 
-let options = {
+const options = {
     cssPath: 'css/resume.css',
     remarkable: {
         breaks: false
     }
 };
 
-fs.createReadStream('src/resume.md')
-    .pipe(markdownpdf(options))
-    .pipe(fs.createWriteStream('distribute/resume.pdf'));
+fs.readdir('./src', (err, files) => {
+    files.forEach(file => {
+        fs.createReadStream(`./src/${file}`)
+            .pipe(markdownpdf(options))
+            .pipe(fs.createWriteStream(`distribute/${file}.pdf`));
+    });
+});
+

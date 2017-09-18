@@ -2,7 +2,7 @@
 adam.shamblin@gmail.com
 Polyglot Web Hacker
 
-##Recommendations
+## Recommendations
 
 >"I worked with and reported to Adam at Datu, and I have tremendously appreciated
 >my time working with Adam. Adam is an exceptionally smart and talented engineer
