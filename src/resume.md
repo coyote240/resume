@@ -1,7 +1,7 @@
 # Adam A.G. Shamblin 
 
 Polyglot Web Hacker<br/>
-adam.shamblin@tutanota.com<br/>
+adam.shamblin@zeroecks.com<br/>
 [\@ Github](https://github.com/coyote240)<br/>
 720-320-6448
 
@@ -24,8 +24,24 @@ Whether as a manager or as a senior contributor, I make teams better.
 
 ## Experience
 
+### Senior Software Engineer at PGi/ReadyTalk
+*October 2017 - Present*
+
+* Key contributor and architect to PGi's UCaaS desktop development effort
+* Developed PGi flagship personal web conferencing application in Electron and Angular
+* Frequent contributor to product efforts
+* Founded and co-chaired the ReadyTalk Security Guild
+* Recipient September 2018 Mediallion Programme award
+
+Working directly with the Chief Architect and key partners, spearheaded the
+development and integration of the Globalmeet Unified Communications (UC)
+product. Guided development of the product across multiple teams and timezones
+under very aggressive timelines.
+
+**Technology stack:** Angular5+, Node.js, Typescript, Electron, Kanban
+
 ### Lead Full-Stack Developer/Acting Director of Security at ThinkTank
-*January 2017 - Present*
+*January 2017 - October 2017*
 
 * Lead and mentored a cross-functional team of developers, testers and product managers to plan, develop and deploy the ThinkTank flagship application.
 * Through white-board review, pull requests and face-to-face interaction, helped to establish an elevated standard for code and architecture quality.
@@ -38,8 +54,11 @@ Whether as a manager or as a senior contributor, I make teams better.
 * Assisted the CFO in preparing ThinkTank for SOC2 Readiness Assessment.
 * Engaged with ThinkTank clients on security matters, including addressing contract concerns.
 
+Aided management with significant reductions in the workforce until, ultimately,
+being reduced myself.
+
 **Technology stack:** Angular2/4, Node.js, Docker, Amazon AWS (ECS, S3,
-        Inspector), Typescript, Veracode, AlertLogic, Bash scripting, Python
+        Inspector), Typescript, Veracode, AlertLogic, Bash, Python
 
 ### Senior Cloud Front End Developer at Hewlett Packard Enterprise
 *August 2015 - December 2016*
