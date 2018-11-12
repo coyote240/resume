@@ -44,18 +44,9 @@ under very aggressive timelines.
 *January 2017 - October 2017*
 
 * Lead and mentored a cross-functional team of developers, testers and product managers to plan, develop and deploy the ThinkTank flagship application.
-* Through white-board review, pull requests and face-to-face interaction, helped to establish an elevated standard for code and architecture quality.
-* Introduced git-flow as a process for managing commits, resulting in a drastic reduction in lost developer time due to broken builds.
 * Worked with CFO and Product Management to establish, review and ratify the total of ThinkTank's security policies.
-* Engaged with third-party penetration testing company to perform tests on multiple applications.
-* Managed static and dynamic analysis of application code using Veracode.
-* Triaged, assigned and performed remediation of security flaws as they were found.
 * Negotiated and consolidated security software contracts, resulting in ~25k annual software and contractor savings.
 * Assisted the CFO in preparing ThinkTank for SOC2 Readiness Assessment.
-* Engaged with ThinkTank clients on security matters, including addressing contract concerns.
-
-Aided management with significant reductions in the workforce until, ultimately,
-being reduced myself.
 
 **Technology stack:** Angular2/4, Node.js, Docker, Amazon AWS (ECS, S3,
         Inspector), Typescript, Veracode, AlertLogic, Bash, Python
@@ -105,6 +96,14 @@ being reduced myself.
 ### Cofounder WSOD/MOD Developer University
 *September 2009 - December 2012*
 
+**Members:** Adam Shamblin, Christopher Bailey, Laura Myers-Wagner, Jenni Tymkovich
+
+The Web Developer University \(DevU\) program was created to help streamline the
+process of growing our development team to meet ever increasing demand.
+Conceived by Chris Bailey and myself, and with significant support and guidance
+from Laura Wagner and Jenny Tymkovich, our team rapidly developed a curriculum
+and a set of success criteria for an ongoing program.
+
 ## Volunteer Experience
 
 ### Hour of Code, Speaker, Pathways School
@@ -113,16 +112,11 @@ being reduced myself.
 ### Technology Advisory Committee, Broomfield High School
 *2015-16, 2016-17 School Years*
 
-### Cub Master at Boy Scouts of America
-*September 1998 - December 2000*
-
 ## Skills & Expertise (Keywords)
 
 Web Development,
 JavaScript,
 Software Development,
-Web Applications,
-jQuery,
 CSS,
 AJAX,
 MVC,
@@ -134,16 +128,11 @@ JSON,
 XML,
 XHTML,
 HTML,
-OOP,
-Software Design,
+OOP/OOD,
 Agile Methodologies,
-Application Development,
 Integration,
 Unix,
 Linux,
-Object Oriented Design,
-Mobile Applications,
-Team Leadership,
 Apache,
 Architecture,
 Web Services,
