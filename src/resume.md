@@ -108,6 +108,7 @@ being reduced myself.
 ## Volunteer Experience
 
 ### Hour of Code, Speaker, Pathways School
+*2016, 2017, 2016*
 
 ### Technology Advisory Committee, Broomfield High School
 *2015-16, 2016-17 School Years*
