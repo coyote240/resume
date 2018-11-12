@@ -4,7 +4,7 @@ const markdownpdf = require('markdown-pdf'),
     fs = require('fs');
 
 const options = {
-    cssPath: 'css/resume.css',
+    cssPath: './css/resume.css',
     remarkable: {
         breaks: false
     }

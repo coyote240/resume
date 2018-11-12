@@ -1,9 +1,9 @@
 # Adam A.G. Shamblin 
 
-Polyglot Web Hacker<br/>
-adam.shamblin@zeroecks.com<br/>
-[\@ Github](https://github.com/coyote240)<br/>
-720-320-6448
+* Polyglot Web Hacker
+* adam.shamblin@zeroecks.com
+* [\@ Github](https://github.com/coyote240)
+* 720-320-6448
 
 ## Overview 
 
