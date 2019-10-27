@@ -1,7 +1,7 @@
 # Adam A.G. Shamblin 
 
-* Polyglot Web Hacker
-* adam.shamblin@zeroecks.com
+* Seasoned Engineer, Polyglot Web Hacker
+* adam.shamblin@vexingworkshop.com
 * [\@ Github](https://github.com/coyote240)
 * 720-320-6448
 
@@ -24,8 +24,36 @@ Whether as a manager or as a senior contributor, I make teams better.
 
 ## Experience
 
+### Senior Software Architect at PGi
+*April 2018 - Present*
+
+* Evaluate and introduce new development tools and techniques
+* Participate in design discussions and code reviews
+* Act as a conduit between engineering and product teams
+* Provide ambient support to developers and teams on the ground
+* Actively advocate for security within the engineering team
+
+* Collaborate with Product and Engineering teams on strategic initiatives
+* Participate in design discussions at various stages of a project lifecycle
+* Evaluate and introduce fundamental capabilities such as:
+  - Kubernetes-native FaaS using Kubeless
+  - Ingress as authentication proxy
+  - GraphQL as data aggregation 
+* Evaluated and introduced Kubernetes-native FaaS capabilities
+* Designed and oversaw the development of an API Gateway strategy to be employed company wide
+
+As a software architect at PGi, it is my responsibility to be a part of every
+engineering team. Rather than dictate system design from an ivory tower, my
+approach has been to work directly with teams, embedding when possible, to
+arrive at the best implementation possible using the capabilities, time and
+expertise at hand.
+
+
+
+**Technology stack:** Kubernetes, Kubeless, NGINX, Kazoo VoIP platform
+
 ### Senior Software Engineer at PGi/ReadyTalk
-*October 2017 - Present*
+*October 2017 - April 2018*
 
 * Key contributor and architect to PGi's UCaaS desktop development effort
 * Developed PGi flagship personal web conferencing application in Electron and Angular
@@ -115,6 +143,7 @@ and a set of success criteria for an ongoing program.
 ## Skills & Expertise (Keywords)
 
 Web Development,
+Python,
 JavaScript,
 Software Development,
 CSS,
@@ -122,12 +151,12 @@ AJAX,
 MVC,
 Perl,
 Enterprise Software,
-Python,
 Web Architecture,
 JSON,
 XML,
 XHTML,
 HTML,
+HTML5,
 OOP/OOD,
 Agile Methodologies,
 Integration,
@@ -144,8 +173,6 @@ Tornado,
 Pyramid,
 Nginx,
 iOS,
-Objective C,
-Android,
 Angular,
 LeafletJS,
 d3.js,
@@ -157,4 +184,5 @@ LESS,
 Cloud,
 AWS,
 Electron,
-Docker
+Docker,
+Kubernetes
