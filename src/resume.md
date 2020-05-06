@@ -1,31 +1,54 @@
-# Adam A.G. Shamblin 
+# Adam A.G. Shamblin, CISSP
 
-* Seasoned Engineer, Polyglot Web Hacker
-* adam.shamblin@vexingworkshop.com
+* Seasoned Software Engineer & Architect, Polyglot Web Hacker
+* adam@vexingworkshop.com
 * [\@ Github](https://github.com/coyote240)
+* [\@ LinkedIn](https://www.linkedin.com/in/adam-shamblin/)
 * 720-320-6448
 
 ## Overview 
 
-As a polyglot web application developer, I have had the opportunity to work in a
-large number of languages on many platforms.  I love the dynamic languages and
-Unix-like environments where I've grown and cut my teeth.  Even after all these
-years in the industry, I'm still excited by the possibilities of the web, where
-I feel there is plenty of space yet to be explored.
+With over 20 years of experience developing applications for the web, I have had
+the opportunity to work across a large number of problem domains in numerous
+languages, platforms and frameworks. I focus on building stable and secure
+systems while growing and cultivating the teams required to maintain them. I
+work to anticipate project and product needs and translate them into software
+that serves those needs today while being flexible enough to adapt to the needs
+of tomorrow.
 
-As a Director and Development Manager I lead and grew large cross-functional
-teams of engineers and developers in the Financial and Healthcare sectors.
-I found success leading teams to greater efficiency while rapidly growing the
-depth and breadth of skills across the team.  I reduced turnover on my teams
-by focusing on team identity and encouraging every team member to participate
-and to own our shared narrative.
+As a Director and Development Manager I have lead and grown large
+cross-functional teams of engineers and developers in the Financial and
+Healthcare sectors.  I found success leading teams to greater efficiency while
+rapidly growing the depth and breadth of skills across the team.  I reduced
+turnover on my teams by focusing on team identity and encouraging every team
+member to participate and to own our shared narrative.
 
 Whether as a manager or as a senior contributor, I make teams better.
 
+## Certification
+
+Certified Information Systems Security Professional (CISSP)
+
 ## Experience
 
+### Penetration Tester at BSI
+*January 2020 - Present*
+
+* Offensive testing of web and mobile applications.
+* White, Grey and Black box testing
+* Secure code review
+* Research & tool development
+
+As a penetration tester it is my responsibilty to not only discover flaws in a
+web application, but to guide my clients to understand and remediate those flaws
+that they may be avoided in the future. My experience as a software engineer
+allows me to anticipate the decisions that lead to a particular system's design
+and to efficiently root out vulnerabilities.
+
+**Tools Used:** Python, Burp Suite, ASVS, CVSS
+
 ### Senior Software Architect at PGi
-*April 2018 - Present*
+*April 2018 - January 2020*
 
 * Evaluate and introduce new development tools and techniques
 * Participate in design discussions and code reviews
@@ -99,29 +122,6 @@ under very aggressive timelines.
 ### Craftsman/ Owner at Burnham Wood Log and Timber Smiths
 *January 1998 - January 2001*
 
-## Projects
-
-### bivouac MVC Framework
-*January 2011 - January 2014*
-
-[Find bivouac on GitHub](https://github.com/coyote240/bivouac)
-
-### Markit Commission Manager
-*January 2011 - December 2012*
-
-[Commission Manager at Markit.com](http://www.markit.com/Product/Commission-Manager)
-
-### Cofounder WSOD/MOD Developer University
-*September 2009 - December 2012*
-
-**Members:** Adam Shamblin, Christopher Bailey, Laura Myers-Wagner, Jenni Tymkovich
-
-The Web Developer University \(DevU\) program was created to help streamline the
-process of growing our development team to meet ever increasing demand.
-Conceived by Chris Bailey and myself, and with significant support and guidance
-from Laura Wagner and Jenny Tymkovich, our team rapidly developed a curriculum
-and a set of success criteria for an ongoing program.
-
 ## Volunteer Experience
 
 ### Hour of Code, Speaker, Pathways School
@@ -144,9 +144,7 @@ Enterprise Software,
 Web Architecture,
 JSON,
 XML,
-XHTML,
 HTML,
-HTML5,
 OOP/OOD,
 Agile Methodologies,
 Integration,
@@ -155,7 +153,6 @@ Linux,
 Apache,
 Architecture,
 Web Services,
-SOA,
 Cross-functional Team Leadership,
 Git,
 Node.js,
@@ -164,15 +161,20 @@ Pyramid,
 Nginx,
 iOS,
 Angular,
-LeafletJS,
 d3.js,
 Karma,
 Jasmine,
-Protractor,
 SASS,
 LESS,
 Cloud,
 AWS,
 Electron,
 Docker,
-Kubernetes
+Kubernetes,
+CISSP,
+ASVS,
+Burp Suite,
+CVSS,
+Secure Code Review,
+Offensive Testing,
+Penetration Testing
