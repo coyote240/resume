@@ -2,3 +2,4 @@
 node_modules
 distribute/
 references.md
+.DS_Store

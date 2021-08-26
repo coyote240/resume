@@ -16,12 +16,12 @@ work to anticipate project and product needs and translate them into software
 that serves those needs today while being flexible enough to adapt to the needs
 of tomorrow.
 
-As a Director and Development Manager I have lead and grown large
-cross-functional teams of engineers and developers in the Financial and
-Healthcare sectors.  I found success leading teams to greater efficiency while
-rapidly growing the depth and breadth of skills across the team.  I reduced
-turnover on my teams by focusing on team identity and encouraging every team
-member to participate and to own our shared narrative.
+As a Director and Development Manager I have lead and grown large,
+cross-functional teams of engineers and developers across multiple domains.  I
+found success leading teams to greater efficiency while rapidly growing the
+depth and breadth of skills across each team.  I reduced turnover on my teams by
+focusing on team identity and encouraging every team member to participate and
+to own our shared narrative.
 
 Whether as a manager or as a senior contributor, I make teams better.
 
@@ -31,8 +31,32 @@ Certified Information Systems Security Professional (CISSP)
 
 ## Experience
 
+### Staff Engineer, DevSecOps at Fulcrum
+*June 2020 - Present*
+
+* Mentor and guide development teams and team leads
+* Introduced Istio to aid in migration from EC2 to Kubernetes
+* Design and construction of CI/CD pipeline in Tekton
+* Leverage Tekton to create full preview environments automatically for every PR
+* Introduction of secrets management using SOPS
+
+As an engineering leader, I hold a place on every development team at Fulcrum.
+It is my primary function to work with the teams to improve productivity and
+reduce errors through development of automation and tools. I work with
+engineering to select technology and to design systems as our product offering
+grows.
+
+As a security champion, I have worked with the engineering teams to improve our
+overall security posture by chairing the Security Guild. The Security Guild
+performs such services as hosting regular discussion on application security and
+the OWASP Top Ten, hosting CTFs and hackathons for skills development, and
+periodic book clubs.
+
+**Technology Stack:** Kubernetes, Istio, Tekton, SOPS, Artifactory, Helm,
+Docker
+
 ### Penetration Tester at BSI
-*January 2020 - Present*
+*January 2020 - June 2020*
 
 * Offensive testing of web and mobile applications.
 * White, Grey and Black box testing
