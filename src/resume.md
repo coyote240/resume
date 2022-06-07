@@ -1,6 +1,6 @@
 # Adam A.G. Shamblin, CISSP
 
-* Seasoned Software Engineer & Architect, Polyglot Web Hacker
+* Seasoned Software Engineer & Architect
 * adam@vexingworkshop.com
 * [\@ Github](https://github.com/coyote240)
 * [\@ LinkedIn](https://www.linkedin.com/in/adam-shamblin/)
@@ -11,15 +11,18 @@
 With over 20 years of experience developing applications for the web, I have had
 the opportunity to work across a large number of problem domains in numerous
 languages, platforms and frameworks. I focus on building stable and secure
-systems while growing and cultivating the teams required to maintain them. I
-work to anticipate project and product needs and translate them into software
-that serves those needs today while being flexible enough to adapt to the needs
-of tomorrow.
+systems while growing and cultivating the teams required to maintain them. 
+
+Application security is a field still in its infancy, and as such requires
+patient balance between the realities of the present and the needs of the
+future. I work to anticipate project and product needs and translate them into
+software that serves those needs today while being flexible enough to adapt to
+the needs of tomorrow.
 
 As a Director and Development Manager I have lead and grown large,
 cross-functional teams of engineers and developers across multiple domains.  I
 found success leading teams to greater efficiency while rapidly growing the
-depth and breadth of skills across each team.  I reduced turnover on my teams by
+depth and breadth of skills across each team. I reduced turnover on my teams by
 focusing on team identity and encouraging every team member to participate and
 to own our shared narrative.
 
@@ -31,8 +34,34 @@ Certified Information Systems Security Professional (CISSP)
 
 ## Experience
 
+### Staff Engineer, Supply Chain Security Tools at VMware Tanzu
+*October 2021 - Present*
+
+* Mentor and guide development teams and team leads
+* Provide guidance to development and product around security concerns
+* Contribute to open source projects and participate in communities, notably
+  Sigstore
+* Participate in broader architecture review and discussion
+
+I joined VMware to get closer to the open source application security community,
+specifically in the software supply chain space. At VMware Tanzu I am staff
+engineer for the Artifact Integrity team, providing tools to validate
+cryptographic signatures and signed attestations at deploy time. Our primary
+output is primarily Kubernetes admission controllers, including donating our
+custom policy definition custom resource to the Sigstore project.
+
+As a staff engineer I work across teams, working closely with product and
+development to clarify vision, and to ensure we are building the critical
+security tools our customers require - well before our customers have asked for
+them. This means building provenance and trust into each component of Tanzu's
+supply chain offerings, often with a long view towards tools and techniques that
+may not yet have been invented.
+
+**Technology Stack:** Kubernetes, Cartographer, Tekton, Docker, Carvel Tools,
+Golang, Knative, Controller Runtime, cosign
+
 ### Staff Engineer, DevSecOps at Fulcrum
-*June 2020 - Present*
+*June 2020 - October 2021*
 
 * Mentor and guide development teams and team leads
 * Introduced Istio to aid in migration from EC2 to Kubernetes
