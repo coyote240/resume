@@ -3,8 +3,8 @@
 * Seasoned Software Engineer & Architect
 * adam@vexingworkshop.com
 * [\@ Github](https://github.com/coyote240)
+  [\@ Gitea](https://git.vexingworkshop.com)
 * [\@ LinkedIn](https://www.linkedin.com/in/adam-shamblin/)
-* 720-320-6448
 
 ## Overview 
 
@@ -58,7 +58,7 @@ supply chain offerings, often with a long view towards tools and techniques that
 may not yet have been invented.
 
 **Technology Stack:** Kubernetes, Cartographer, Tekton, Docker, Carvel Tools,
-Golang, Knative, Controller Runtime, cosign
+Golang, Knative, Controller Runtime, sigstore
 
 ### Staff Engineer, DevSecOps at Fulcrum
 *June 2020 - October 2021*
